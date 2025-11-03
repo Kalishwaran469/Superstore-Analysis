@@ -1,4 +1,4 @@
-Overview 🛒 Superstore Sales Analysis
+🛒 Superstore Sales Analysis
 📊 Overview
 
 A data analysis project on Superstore Sales Dataset to identify key business insights and improve decision-making.
