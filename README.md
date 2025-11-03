@@ -1,4 +1,5 @@
 🛒 Superstore Sales Analysis
+
 📊 Overview
 
 A data analysis project on Superstore Sales Dataset to identify key business insights and improve decision-making.
@@ -10,21 +11,21 @@ To analyze sales and profit patterns, highlight top-performing areas, and sugges
 
 🧠 Key Insights
 
-Consumer segment gives the highest profit.
+- Consumer segment gives the highest profit.
 
-Technology category performs best; Furniture needs improvement.
+- Technology category performs best; Furniture needs improvement.
 
-West region leads in both sales and profit.
+- West region leads in both sales and profit.
 
-High discounts reduce overall profit.
+- High discounts reduce overall profit.
 
 🛠️ Tools Used
 
-Python (Pandas, NumPy) – Data cleaning & analysis
+- Python (Pandas, NumPy) – Data cleaning & analysis
 
-Matplotlib, Seaborn – Data visualization
+- Matplotlib, Seaborn – Data visualization
 
-Jupyter Notebook – Project execution
+- Jupyter Notebook – Project execution
 
 💡 Outcome
 
