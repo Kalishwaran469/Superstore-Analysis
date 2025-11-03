@@ -1,7 +1,8 @@
 🛒 Superstore Sales Analysis
 📊 Overview
 
-A data analysis project on Superstore Sales Dataset to identify key business insights and improve decision-making. The analysis focuses on sales trends, profitability, customer segments, and regional performance.
+A data analysis project on Superstore Sales Dataset to identify key business insights and improve decision-making.
+The analysis focuses on sales trends, profitability, customer segments, and regional performance.
 
 🎯 Objective
 
@@ -29,5 +30,5 @@ Jupyter Notebook – Project execution
 
 Helped uncover sales patterns, profit drivers, and actionable insights to support data-driven business strategies.
 
-Author: Kalishwaran B (Jack)
-📧 kalishwaran469@gmail.com | 💼 www.linkedin.com/in/kalishwaran469
+Project Created By : Kalishwaran
+📧 kalishwaran469@gmail.com | 💼 www.linkedin.com/in/kalishwaran469/
